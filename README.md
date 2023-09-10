@@ -7,10 +7,10 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rajdhani&size=60&pause=1000&color=7E1BE6&center=true&vCenter=true&width=800&height=100&lines=Hi+there%F0%9F%98%BA%2C+I%C2%B4m+Antonio+Vega;W+E+L+C+O+M+E" alt="Typing SVG" /></a>
 </p>
 
-
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- ACTIVIDAD -->
-<h2>🌱 &nbsp;I'm currently studying IT Engineering.</h2>
+<h2 align="center">🌱 &nbsp;I'm currently studying IT Engineering.</h2>
 
 
 
@@ -59,7 +59,7 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <!-- ANALISIS -->
-### ⚙️ &nbsp;GitHub Analytics
+<h2 align="center">⚙️ &nbsp;GitHub Analytics </h2>
 <p align="center">
   <a href="https://github.com/antovegav">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=antovegav&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
