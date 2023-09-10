@@ -4,10 +4,10 @@
 <!-- SALUDO -->
 <p align="center">
   <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 100px></picture>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rajdhani&size=40&pause=1000&color=7E1BE6&center=true&vCenter=true&width=435&lines=Hi+there%F0%9F%98%BA%2C+I%C2%B4m+Antonio+Vega" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rajdhani&size=80&pause=1000&color=7E1BE6&center=true&vCenter=true&width=500&lines=Hi+there%F0%9F%98%BA%2C+I%C2%B4m+Antonio+Vega;W+E+L+C+O+M+E" alt="Typing SVG" /></a>
 </p>
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 
 <!-- ACTIVIDAD -->
 <h2>🌱 &nbsp;I'm currently studying IT Engineering.</h2>
@@ -70,6 +70,7 @@
 <!-- TROFEOS GITHUB -->
 <p align="CENTER"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antovegav&theme=midnight-purple&column=7" alt="andermendoza" /></a> </p>
 
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!--
 **antovegav/antovegav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
