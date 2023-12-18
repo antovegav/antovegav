@@ -72,6 +72,10 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
+<h2 align="center"> ACHIEVEMENTS & MODULES COMPLETE</h2>
+<a src="https://learn.microsoft.com/es-es/users/antonioignacioyurivegavega-5799/achievements/ejhj54hp">Challenge Project</a>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <!--
 Link de referencias: https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/master/templates
 -->
